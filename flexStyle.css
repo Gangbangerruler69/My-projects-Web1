@@ -1,0 +1,62 @@
+.flex-container  {
+    display: flex;
+    flex-flow: row wrap ; /* try out the different value possibilities */
+    background-color: rgb(0, 0, 0);
+    height: 400px;
+    align-items: center;
+   justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    color:#000000;
+}
+
+#div1 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color:crimson;
+    text-align: center;
+    margin: 5px;
+}
+
+#div2 {
+    height: 100px;
+    width: 100px;
+    background-color:chocolate;
+    color:aliceblue;
+       text-align: center;
+    margin: 5px;
+}
+
+
+#div3 {
+    height: 100px;
+    width: 100px;
+    background-color:rgb(165, 210, 30);
+    color:aliceblue;
+    text-align: center;
+    margin: 5px;
+}
+
+
+#div4 {
+    height: 100px;
+    width: 100px;
+    background-color:rgb(30, 210, 72);
+    color:aliceblue;
+    text-align: center;
+    margin: 5px;
+}
+
+
+#div5 {
+    height: 100px;
+    width: 100px;
+    background-color:rgb(30, 144, 210);
+    color:aliceblue;
+    text-align: center;
+    margin: 5px;
+}
+
